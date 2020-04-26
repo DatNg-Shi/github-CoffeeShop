@@ -1,0 +1,32 @@
+    ======  ======
+    Time:4/5/2020 9:27:20 PM
+    Title: Initiate log
+    Message: 
+    Time:4/5/2020 9:27:20 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:4/5/2020 9:27:20 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:4/5/2020 9:27:20 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:4/5/2020 9:27:20 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:4/5/2020 9:27:20 PM
+    Title: LICENSER
+    Message: DS LEFT16
+    Time:4/5/2020 9:27:20 PM
+    Title: LICENSER
+    Message: DT MARK PASSED16.00:00:00
+    Time:4/5/2020 9:27:24 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:4/5/2020 9:27:24 PM
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    ResolveFWLinkAccountManager statusCode is redirect: 'True'
+    ResolveFWLinkAccountManager resovled fwlink from 'https://go.microsoft.com/fwlink/?LinkID=415837' to 'https://app.vssps.visualstudio.com/'

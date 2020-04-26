@@ -1,0 +1,10 @@
+D:\CN5\PRN292\Project\CoffeeShop\DTO_CoffeeShop\bin\Debug\DTO_CoffeeShop.dll
+D:\CN5\PRN292\Project\CoffeeShop\DTO_CoffeeShop\bin\Debug\DTO_CoffeeShop.pdb
+D:\CN5\PRN292\Project\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.csprojAssemblyReference.cache
+D:\CN5\PRN292\Project\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.dll
+D:\CN5\PRN292\Project\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.pdb
+D:\CN5\PRN292\CoffeeShop_PRN292_1_NguyenThanhDat_SE130130\CoffeeShop\DTO_CoffeeShop\bin\Debug\DTO_CoffeeShop.dll
+D:\CN5\PRN292\CoffeeShop_PRN292_1_NguyenThanhDat_SE130130\CoffeeShop\DTO_CoffeeShop\bin\Debug\DTO_CoffeeShop.pdb
+D:\CN5\PRN292\CoffeeShop_PRN292_1_NguyenThanhDat_SE130130\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.csprojAssemblyReference.cache
+D:\CN5\PRN292\CoffeeShop_PRN292_1_NguyenThanhDat_SE130130\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.dll
+D:\CN5\PRN292\CoffeeShop_PRN292_1_NguyenThanhDat_SE130130\CoffeeShop\DTO_CoffeeShop\obj\Debug\DTO_CoffeeShop.pdb
